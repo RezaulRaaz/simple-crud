@@ -7,6 +7,7 @@
 ```sh
 $ git clone https://github.com/RezaulRaaz/simple-crud.git
 $ cd simple-crud
+$ composer require
 $ npm install
 ```
 
