@@ -15,6 +15,7 @@ $ npm install
 
 ```sh
 Edit .env.example file to .env
+connect the database
 $ npm run dev
 ```
 
