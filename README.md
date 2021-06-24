@@ -22,6 +22,7 @@ $ npm run dev
 ### Step Three
 
 ```sh
+$ php artisan migrate
 $ php artisan serve
 Go to http://127.0.0.1:8000
 ```
